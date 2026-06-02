@@ -163,10 +163,10 @@ norminette ft_putchar.c
 
 <div align="center">
 
-<sub>author: <strong>sabir</strong> · school: 1337 / 42 network · benguerir, morocco · 2026</sub>
+<sub>author: <strong>sabir</strong> · school: 1337 / 42 network · morocco · 2026</sub>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111111111,100:0d0d0d&height=80&section=footer&fontColor=1a1a1a&animation=fadeIn" width="100%"/>
+<img src ="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,100:238636&height=80&section=footer&fontColor=ffffff&animation=fadeIn" width="150%"/>
 
 </div>
