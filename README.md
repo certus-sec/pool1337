@@ -54,10 +54,6 @@
 
 ---
 
-## modules
-
-> **8 / 14 complete** — C00 through C07 fully solved and norminette-checked.
-
 <p align="center">
   <img src="assets/badges/overall.svg" width="420" />
 </p>
@@ -68,39 +64,38 @@
 
 ### 💠 C Modules
 
-| Module | Status |
-|:------:|:------:|
-| **C00** | <img src="assets/badges/C00.svg" height="28" /> |
-| **C01** | <img src="assets/badges/C01.svg" height="28" /> |
-| **C02** | <img src="assets/badges/C02.svg" height="28" /> |
-| **C03** | <img src="assets/badges/C03.svg" height="28" /> |
-| **C04** | <img src="assets/badges/C04.svg" height="28" /> |
-| **C05** | <img src="assets/badges/C05.svg" height="28" /> |
-| **C06** | <img src="assets/badges/C06.svg" height="28" /> |
-| **C07** | <img src="assets/badges/C07.svg" height="28" /> |
-| **C08** | <img src="assets/badges/C08.svg" height="28" /> |
-| **C09** | <img src="assets/badges/C09.svg" height="28" /> |
-| **C10** | <img src="assets/badges/C10.svg" height="28" /> |
-| **C11** | <img src="assets/badges/C11.svg" height="28" /> |
-| **C12** | <img src="assets/badges/C12.svg" height="28" /> |
-| **C13** | <img src="assets/badges/C13.svg" height="28" /> |
+| | module | focus | exercises | status |
+|:-:|:-:|---|:---------:|:-:|
+| ◆ | `C00` | `write()` · loops · basic output | 9 | <img src="assets/badges/C00.svg" height="24" /> |
+| ◆ | `C01` | pointers · arrays · arithmetic | 9 | <img src="assets/badges/C01.svg" height="24" /> |
+| ◆ | `C02` | strings · `strcpy` · `strlen` | 13 | <img src="assets/badges/C02.svg" height="24" /> |
+| ◆ | `C03` | `strcmp` · `strcat` · comparison | 6 | <img src="assets/badges/C03.svg" height="24" /> |
+| ◆ | `C04` | base conversion · `atoi` · `itoa` | 6 | <img src="assets/badges/C04.svg" height="24" /> |
+| ◆ | `C05` | recursion · fibonacci · primes | 9 | <img src="assets/badges/C05.svg" height="24" /> |
+| ◆ | `C06` | `argc` / `argv` · program args | 4 | <img src="assets/badges/C06.svg" height="24" /> |
+| ◆ | `C07` | `malloc` · `free` · heap memory | 6 | <img src="assets/badges/C07.svg" height="24" /> |
+| ◇ | `C08` | structs · headers · guards | — | <img src="assets/badges/C08.svg" height="24" /> |
+| ◇ | `C09` | static libs · `ar` · Makefile | — | <img src="assets/badges/C09.svg" height="24" /> |
+| ◇ | `C10` | file I/O | — | <img src="assets/badges/C10.svg" height="24" /> |
+| ◇ | `C11` | function pointers | — | <img src="assets/badges/C11.svg" height="24" /> |
+| ◇ | `C12` | linked lists | — | <img src="assets/badges/C12.svg" height="24" /> |
+| ◇ | `C13` | binary trees | — | <img src="assets/badges/C13.svg" height="24" /> |
 
     </td>
-----
     <td valign="top" width="42%">
-    
-## shell · exams · rush
+
+### 🐚 Shell & Exams & Rush
 
 | | | status |
 |:-:|---|:-:|
-| 🐚 | **Shell00** | fs navigation · git · permissions | <img src="assets/badges/Shell00.svg" height="24" /> |
-| 🐚 | **Shell01** | scripts · symlinks · automation | <img src="assets/badges/Shell01.svg" height="24" /> |
-| 📋 | **Exam00** | 6 exercises | <img src="assets/badges/level_00.svg" height="24" /> |
-| 📋 | **Exam01** | core skills assessment | <img src="assets/badges/level_01.svg" height="24" /> |
-| 📋 | **Exam02** | intermediate challenges | <img src="assets/badges/level_02.svg" height="24" /> |
-| 📋 | **Exam03** | final evaluation | <img src="assets/badges/level_03.svg" height="24" /> |
-| 👥 | **Rush00** | weekend team project | <img src="assets/badges/Rush00.svg" height="24" /> |
-| 👥 | **Rush01** | advanced teamwork | <img src="assets/badges/Rush01.svg" height="24" /> |
+| 🐚 | **Shell00** — fs navigation · git · permissions | <img src="assets/badges/Shell00.svg" height="24" /> |
+| 🐚 | **Shell01** — scripts · symlinks · automation | <img src="assets/badges/Shell01.svg" height="24" /> |
+| 📋 | **Exam level00** — 6 exercises | <img src="assets/badges/level_00.svg" height="24" /> |
+| 📋 | **Exam level01** | <img src="assets/badges/level_01.svg" height="24" /> |
+| 📋 | **Exam level02** | <img src="assets/badges/level_02.svg" height="24" /> |
+| 📋 | **Exam level03** | <img src="assets/badges/level_03.svg" height="24" /> |
+| 👥 | **Rush00** — weekend team project | <img src="assets/badges/Rush00.svg" height="24" /> |
+| 👥 | **Rush01** — advanced teamwork | <img src="assets/badges/Rush01.svg" height="24" /> |
 
     </td>
   </tr>
