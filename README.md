@@ -47,10 +47,10 @@
 
 <table width="100%">
   <tr>
-    <td valign="top" width="58%">
-    
 ## 💠 C Modules
 
+    <td valign="top" width="58%">
+    
 | module | focus | exercises | status|
 |:-:|---|:---------:|:-:|
 | `C00` | `write()` · loops · basic output | 9 | <img src="assets/badges/C00.svg" height="24" /> |
