@@ -33,12 +33,13 @@
 
 <br/>
 
----
+----
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=certus-sec&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=certus-sec&theme=github_dark"/>
+<p align="center">
+  <img src="assets/badges/overall.svg" width="420" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=certus-sec&repo=pool1337&theme=github_dark" width="420" />
+</p>
 
 </div>
 
