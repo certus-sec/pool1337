@@ -59,6 +59,13 @@
 > **8 / 14 complete** — C00 through C07 fully solved and norminette-checked.
 
 <p align="center">
+  <img src="assets/badges/overall.svg" width="420" />
+</p>
+
+<p align="center">
+  <img src="assets/badges/exercises.svg" height="56" />
+  <img src="assets/badges/norm.svg" height="36" />
+</p>
 
 | Module | Status |
 |:------:|:------:|

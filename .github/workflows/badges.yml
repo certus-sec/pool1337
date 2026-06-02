@@ -1,0 +1,31 @@
+name: 🎨 Generate Live Badges
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate SVG badges
+        run: python assets/generate_badges.py
+
+      - name: Commit updated badges
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 Auto-update live badges"
+          file_pattern: "assets/badges/*.svg stats.json"
+
