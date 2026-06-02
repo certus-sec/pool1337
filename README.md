@@ -61,7 +61,6 @@
 <table width="100%">
   <tr>
     <td valign="top" width="58%">
-
 ### 💠 C Modules
 
 | | module | focus | exercises | status |
@@ -80,10 +79,8 @@
 | ◇ | `C11` | function pointers | — | <img src="assets/badges/C11.svg" height="24" /> |
 | ◇ | `C12` | linked lists | — | <img src="assets/badges/C12.svg" height="24" /> |
 | ◇ | `C13` | binary trees | — | <img src="assets/badges/C13.svg" height="24" /> |
-
-    </td>
-    <td valign="top" width="42%">
-
+</td>
+<td valign="top" width="42%">
 ### 🐚 Shell & Exams & Rush
 
 | | | status |
@@ -96,7 +93,6 @@
 | 📋 | **Exam level03** | <img src="assets/badges/level_03.svg" height="24" /> |
 | 👥 | **Rush00** — weekend team project | <img src="assets/badges/Rush00.svg" height="24" /> |
 | 👥 | **Rush01** — advanced teamwork | <img src="assets/badges/Rush01.svg" height="24" /> |
-
     </td>
   </tr>
 </table>
