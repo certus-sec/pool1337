@@ -46,9 +46,9 @@
 </p>
 
 <table width="100%">
-  <tr>
-## 💠 C Modules
 
+## 💠 C Modules
+  <tr>
     <td valign="top" width="58%">
     
 | module | focus | exercises | status|
