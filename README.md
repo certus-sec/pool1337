@@ -35,12 +35,8 @@
 
 ----
 
-<p align="center">
-  <img src="assets/badges/overall.svg" width="420" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=certus-sec&repo=pool1337&theme=github_dark" width="420" />
-</p>
-
+<div align="center">
+  <img src ="https://github-readme-stats.vercel.app/api/pin/?username=certus-sec&repo=pool1337&theme=github_dark"/>
 </div>
 
 <div align="center">
