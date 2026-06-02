@@ -51,22 +51,22 @@
     
 ## 💠 C Modules
 
-| | module | focus | exercises | status |
-|:-:|:-:|---|:---------:|:-:|
-| ◆ | `C00` | `write()` · loops · basic output | 9 | <img src="assets/badges/C00.svg" height="24" /> |
-| ◆ | `C01` | pointers · arrays · arithmetic | 9 | <img src="assets/badges/C01.svg" height="24" /> |
-| ◆ | `C02` | strings · `strcpy` · `strlen` | 13 | <img src="assets/badges/C02.svg" height="24" /> |
-| ◆ | `C03` | `strcmp` · `strcat` · comparison | 6 | <img src="assets/badges/C03.svg" height="24" /> |
-| ◆ | `C04` | base conversion · `atoi` · `itoa` | 6 | <img src="assets/badges/C04.svg" height="24" /> |
-| ◆ | `C05` | recursion · fibonacci · primes | 9 | <img src="assets/badges/C05.svg" height="24" /> |
-| ◆ | `C06` | `argc` / `argv` · program args | 4 | <img src="assets/badges/C06.svg" height="24" /> |
-| ◆ | `C07` | `malloc` · `free` · heap memory | 6 | <img src="assets/badges/C07.svg" height="24" /> |
-| ◇ | `C08` | structs · headers · guards | — | <img src="assets/badges/C08.svg" height="24" /> |
-| ◇ | `C09` | static libs · `ar` · Makefile | — | <img src="assets/badges/C09.svg" height="24" /> |
-| ◇ | `C10` | file I/O | — | <img src="assets/badges/C10.svg" height="24" /> |
-| ◇ | `C11` | function pointers | — | <img src="assets/badges/C11.svg" height="24" /> |
-| ◇ | `C12` | linked lists | — | <img src="assets/badges/C12.svg" height="24" /> |
-| ◇ | `C13` | binary trees | — | <img src="assets/badges/C13.svg" height="24" /> |
+| module | focus | exercises | status|
+|:-:|---|:---------:|:-:|
+| `C00` | `write()` · loops · basic output | 9 | <img src="assets/badges/C00.svg" height="24" /> |
+| `C01` | pointers · arrays · arithmetic | 9 | <img src="assets/badges/C01.svg" height="24" /> |
+| `C02` | strings · `strcpy` · `strlen` | 13 | <img src="assets/badges/C02.svg" height="24" /> |
+| `C03` | `strcmp` · `strcat` · comparison | 6 | <img src="assets/badges/C03.svg" height="24" /> |
+| `C04` | base conversion · `atoi` · `itoa` | 6 | <img src="assets/badges/C04.svg" height="24" /> |
+| `C05` | recursion · fibonacci · primes | 9 | <img src="assets/badges/C05.svg" height="24" /> |
+| `C06` | `argc` / `argv` · program args | 4 | <img src="assets/badges/C06.svg" height="24" /> |
+| `C07` | `malloc` · `free` · heap memory | 6 | <img src="assets/badges/C07.svg" height="24" /> |
+| `C08` | structs · headers · guards | — | <img src="assets/badges/C08.svg" height="24" /> |
+| `C09` | static libs · `ar` · Makefile | — | <img src="assets/badges/C09.svg" height="24" /> |
+| `C10` | file I/O | — | <img src="assets/badges/C10.svg" height="24" /> |
+| `C11` | function pointers | — | <img src="assets/badges/C11.svg" height="24" /> |
+| `C12` | linked lists | — | <img src="assets/badges/C12.svg" height="24" /> |
+| `C13` | binary trees | — | <img src="assets/badges/C13.svg" height="24" /> |
 </td>
 <td valign="top" width="42%">
 
@@ -74,14 +74,14 @@
 
 | | | status |
 |:-:|---|:-:|
-| 🐚 | **Shell00** — fs navigation · git · permissions | <img src="assets/badges/Shell00.svg" height="24" /> |
-| 🐚 | **Shell01** — scripts · symlinks · automation | <img src="assets/badges/Shell01.svg" height="24" /> |
-| 📋 | **Exam level00** — 6 exercises | <img src="assets/badges/level_00.svg" height="24" /> |
+| 🐚 | **Shell00** | <img src="assets/badges/Shell00.svg" height="24" /> |
+| 🐚 | **Shell01** | <img src="assets/badges/Shell01.svg" height="24" /> |
+| 📋 | **Exam level00** | <img src="assets/badges/level_00.svg" height="24" /> |
 | 📋 | **Exam level01** | <img src="assets/badges/level_01.svg" height="24" /> |
 | 📋 | **Exam level02** | <img src="assets/badges/level_02.svg" height="24" /> |
 | 📋 | **Exam level03** | <img src="assets/badges/level_03.svg" height="24" /> |
-| 👥 | **Rush00** — weekend team project | <img src="assets/badges/Rush00.svg" height="24" /> |
-| 👥 | **Rush01** — advanced teamwork | <img src="assets/badges/Rush01.svg" height="24" /> |
+| 👥 | **Rush00** | <img src="assets/badges/Rush00.svg" height="24" /> |
+| 👥 | **Rush01** | <img src="assets/badges/Rush01.svg" height="24" /> |
    </td>
 </table>
 
