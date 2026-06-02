@@ -61,7 +61,8 @@
 <table width="100%">
   <tr>
     <td valign="top" width="58%">
-### 💠 C Modules
+    
+## 💠 C Modules
 
 | | module | focus | exercises | status |
 |:-:|:-:|---|:---------:|:-:|
@@ -81,7 +82,8 @@
 | ◇ | `C13` | binary trees | — | <img src="assets/badges/C13.svg" height="24" /> |
 </td>
 <td valign="top" width="42%">
-### 🐚 Shell & Exams & Rush
+
+## 🐚 Shell & Exams & Rush
 
 | | | status |
 |:-:|---|:-:|
