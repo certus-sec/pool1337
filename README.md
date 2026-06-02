@@ -62,10 +62,11 @@
   <img src="assets/badges/overall.svg" width="420" />
 </p>
 
-<p align="center">
-  <img src="assets/badges/exercises.svg" height="56" />
-  <img src="assets/badges/norm.svg" height="36" />
-</p>
+<table width="100%">
+  <tr>
+    <td valign="top" width="58%">
+
+### 💠 C Modules
 
 | Module | Status |
 |:------:|:------:|
@@ -83,20 +84,27 @@
 | **C11** | <img src="assets/badges/C11.svg" height="28" /> |
 | **C12** | <img src="assets/badges/C12.svg" height="28" /> |
 | **C13** | <img src="assets/badges/C13.svg" height="28" /> |
----
 
+    </td>
+----
+    <td valign="top" width="42%">
+    
 ## shell · exams · rush
 
 | | | status |
 |:-:|---|:-:|
-| 🐚 | **Shell00** — fs navigation · git · permissions | ⬜ not started |
-| 🐚 | **Shell01** — scripts · symlinks · automation | ⬜ not started |
-| 📋 | **Exam level00** — 6 exercises | ✅ done |
-| 📋 | **Exam level01** | ⬜ planned |
-| 📋 | **Exam level02** | ⬜ planned |
-| 📋 | **Exam level03** | ⬜ planned |
-| 👥 | **Rush00** — weekend team project | ⬜ not started |
-| 👥 | **Rush01** — advanced teamwork | ⬜ not started |
+| 🐚 | **Shell00** | fs navigation · git · permissions | <img src="assets/badges/Shell00.svg" height="24" /> |
+| 🐚 | **Shell01** | scripts · symlinks · automation | <img src="assets/badges/Shell01.svg" height="24" /> |
+| 📋 | **Exam00** | 6 exercises | <img src="assets/badges/level_00.svg" height="24" /> |
+| 📋 | **Exam01** | core skills assessment | <img src="assets/badges/level_01.svg" height="24" /> |
+| 📋 | **Exam02** | intermediate challenges | <img src="assets/badges/level_02.svg" height="24" /> |
+| 📋 | **Exam03** | final evaluation | <img src="assets/badges/level_03.svg" height="24" /> |
+| 👥 | **Rush00** | weekend team project | <img src="assets/badges/Rush00.svg" height="24" /> |
+| 👥 | **Rush01** | advanced teamwork | <img src="assets/badges/Rush01.svg" height="24" /> |
+
+    </td>
+  </tr>
+</table>
 
 ---
 

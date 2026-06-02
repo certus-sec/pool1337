@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="44" viewBox="0 0 280 44">
+  <defs>
+    <filter id="glow-level_03">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .bg{fill:#161b22;stroke:#9e6a03;stroke-width:1;}
+    .title{fill:#c9d1d9;font-family:-apple-system,sans-serif;font-size:12px;font-weight:600;}
+    .meta{fill:#8b949e;font-family:monospace;font-size:9px;}
+    .badge-bg{fill:#d29922;opacity:0.15;rx:8;}
+    .badge-txt{fill:#d29922;font-family:sans-serif;font-size:8px;font-weight:700;}
+  </style>
+  <rect class="bg" x="0" y="0" width="280" height="44" rx="10" />
+  <text x="12" y="18" class="title">📋 level_03</text>
+  <text x="12" y="34" class="meta">final eval</text>
+  <rect class="badge-bg" x="210" y="10" width="60" height="20" rx="10" />
+  <text x="240" y="24" text-anchor="middle" class="badge-txt">PLANNED</text>
+</svg>
