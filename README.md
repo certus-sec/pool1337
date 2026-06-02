@@ -93,10 +93,9 @@
 | 📋 | **Exam level03** | <img src="assets/badges/level_03.svg" height="24" /> |
 | 👥 | **Rush00** — weekend team project | <img src="assets/badges/Rush00.svg" height="24" /> |
 | 👥 | **Rush01** — advanced teamwork | <img src="assets/badges/Rush01.svg" height="24" /> |
-    </td>
-  </tr>
+      </td>
+   </tr>
 </table>
-
 ---
 
 ## the rules
