@@ -148,9 +148,11 @@ norminette ft_putchar.c
 
 ---
 
-<div align="center">
-
-<sub>author: <strong>sabir</strong> · school: 1337 / 42 network · morocco · 2026</sub>
+<p align="center">
+  <a href="https://github.com/certus-sec">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=45&lines=✦+Sabir+✦+1337+%2F+42+Network+✦+Morocco+🇲🇦+✦">
+  </a>
+</p>
 
 <br/>
 
