@@ -167,6 +167,6 @@ norminette ft_putchar.c
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:0d0d0d&height=80&section=footer&fontColor=1a1a1a&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111111111,100:0d0d0d&height=80&section=footer&fontColor=1a1a1a&animation=fadeIn" width="100%"/>
 
 </div>
