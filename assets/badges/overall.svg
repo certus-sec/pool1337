@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#161b22;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58a6ff">
+        <animate attributeName="stop-color" values="#58a6ff;#3fb950;#58a6ff" dur="3s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" style="stop-color:#3fb950">
+        <animate attributeName="stop-color" values="#3fb950;#58a6ff;#3fb950" dur="3s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .bg { fill: url(#grad1); stroke: #30363d; stroke-width: 1; }
+      .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 14px; fill: #8b949e; font-weight: 600; }
+      .percent { font-family: 'Segoe UI', monospace; font-size: 32px; fill: #fff; font-weight: 700; }
+      .fraction { font-family: monospace; font-size: 13px; fill: #58a6ff; font-weight: 600; }
+      .bar-bg { fill: #21262d; rx: 4; }
+      .bar-fill { fill: url(#barGrad); rx: 4; filter: url(#glow); }
+      .pulse { animation: pulse 2s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.7; } }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="400" height="120" rx="12" />
+
+  <!-- Title -->
+  <text x="20" y="28" class="title">🏊 POOL 1337 PROGRESS</text>
+
+  <!-- Big percentage -->
+  <text x="20" y="75" class="percent">57%</text>
+
+  <!-- Fraction -->
+  <text x="20" y="100" class="fraction">8 / 14 MODULES COMPLETE</text>
+
+  <!-- Progress bar background -->
+  <rect class="bar-bg" x="130" y="55" width="250" height="14" />
+
+  <!-- Progress bar fill with animation -->
+  <rect class="bar-fill" x="130" y="55" width="0" height="14">
+    <animate attributeName="width" from="0" to="142.5" dur="1.5s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
+  </rect>
+
+  <!-- Animated dots -->
+  <circle cx="340" cy="28" r="3" fill="#3fb950" class="pulse">
+    <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <text x="348" y="32" font-size="10" fill="#3fb950" font-family="sans-serif" font-weight="600">LIVE</text>
+</svg>
