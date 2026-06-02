@@ -62,6 +62,7 @@
 | `C06` | `argc` / `argv` · program args | 4 | <img src="assets/badges/C06.svg" height="24" /> |
 </td>
 <td valign="top" width="42%">
+
 | module | focus | exercises | status|
 |:-:|---|:---------:|:-:|
 | `C07` | `malloc` · `free` · heap memory | 6 | <img src="assets/badges/C07.svg" height="24" /> |
