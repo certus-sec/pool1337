@@ -36,10 +36,6 @@
 ----
 
 <div align="center">
-  <img src ="https://github-readme-stats.vercel.app/api/pin/?username=certus-sec&repo=pool1337&theme=github_dark"/>
-</div>
-
-<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=certus-sec&hide_border=true&background=0d0d0d&stroke=111&ring=1D9E75&fire=EF9F27&currStreakLabel=1D9E75&sideLabels=333333&dates=2a2a2a&currStreakNum=ffffff&sideNums=555555&mode=weekly"/>
 
