@@ -1,34 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="320" height="56" viewBox="0 0 320 56">
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="64" viewBox="0 0 340 64">
   <defs>
     <filter id="glow-C00">
-      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <style>
-      .bg-{ fill: #161b22; stroke: #238636; stroke-width: 1; }
-      .icon-{ fill: #3fb950; font-family: sans-serif; font-size: 16px; font-weight: 700; }
-      .name-{ fill: #c9d1d9; font-family: -apple-system, sans-serif; font-size: 14px; font-weight: 600; }
-      .meta-{ fill: #8b949e; font-family: monospace; font-size: 11px; }
-      .bar-bg-{ fill: #21262d; rx: 2; }
-      .bar-fill-{ fill: #3fb950; rx: 2; filter: url(#glow-C00); }
-    </style>
+    <linearGradient id="grad-C00" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3fb950;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#3fb950;stop-opacity:0.05" />
+    </linearGradient>
   </defs>
+  <style>
+    .bg{fill:#161b22;stroke:#238636;stroke-width:1;}
+    .title{fill:#c9d1d9;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;font-size:13px;font-weight:700;}
+    .meta{fill:#8b949e;font-family:monospace;font-size:10px;}
+    .badge-bg{fill:#3fb950;opacity:0.15;rx:10;}
+    .badge-txt{fill:#3fb950;font-family:sans-serif;font-size:9px;font-weight:700;}
+    .bar-bg{fill:#21262d;rx:3;}
+    .bar-fill{fill:#3fb950;rx:3;filter:url(#glow-C00);}
+  </style>
+  <rect class="bg" x="0" y="0" width="340" height="64" rx="12" />
+  <rect fill="url(#grad-C00)" x="1" y="1" width="338" height="62" rx="11" opacity="0.5" />
 
-  <rect class="bg-" x="0" y="0" width="320" height="56" rx="10" />
+  <text x="14" y="22" class="title">✅ C00</text>
+  <text x="14" y="40" class="meta">9/9 ex · 315 lines</text>
 
-  <!-- Module ID -->
-  <text x="12" y="22" class="icon-">✅ C00</text>
+  <rect class="badge-bg" x="260" y="10" width="70" height="22" rx="11" />
+  <text x="295" y="25" text-anchor="middle" class="badge-txt">DONE</text>
 
-  <!-- Focus text -->
-  <text x="12" y="42" class="meta-">9 exercises</text>
-
-  <!-- Status pill -->
-  <rect x="250" y="12" width="58" height="22" rx="11" fill="#3fb950" opacity="0.15" />
-  <text x="279" y="27" text-anchor="middle" fill="#3fb950" font-family="sans-serif" font-size="10" font-weight="700">DONE</text>
-
-  <!-- Mini progress bar -->
-  <rect class="bar-bg-" x="12" y="48" width="120" height="4" />
-  <rect class="bar-fill-" x="12" y="48" width="0" height="4">
-    <animate attributeName="width" from="0" to="120" dur="1s" fill="freeze" />
+  <rect class="bar-bg" x="14" y="50" width="120" height="5" />
+  <rect class="bar-fill" x="14" y="50" width="0" height="5">
+    <animate attributeName="width" from="0" to="120" dur="0.8s" fill="freeze" />
   </rect>
+  <text x="140" y="55" class="meta">100%</text>
 </svg>
