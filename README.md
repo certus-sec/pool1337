@@ -60,11 +60,6 @@
 | `C04` | base conversion · `atoi` · `itoa` | 6 | <img src="assets/badges/C04.svg" height="24" /> |
 | `C05` | recursion · fibonacci · primes | 9 | <img src="assets/badges/C05.svg" height="24" /> |
 | `C06` | `argc` / `argv` · program args | 4 | <img src="assets/badges/C06.svg" height="24" /> |
-</td>
-<td valign="top" width="42%">
-
-| module | focus | exercises | status|
-|:-:|---|:---------:|:-:|
 | `C07` | `malloc` · `free` · heap memory | 6 | <img src="assets/badges/C07.svg" height="24" /> |
 | `C08` | structs · headers · guards | — | <img src="assets/badges/C08.svg" height="24" /> |
 | `C09` | static libs · `ar` · Makefile | — | <img src="assets/badges/C09.svg" height="24" /> |
