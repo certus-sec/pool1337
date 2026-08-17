@@ -24,22 +24,19 @@
   </style>
   <rect class="bg" x="0" y="0" width="420" height="140" rx="16" />
 
-  <text x="20" y="32" class="title">🏊 POOL 1337 — LIVE PROGRESS</text>
+  <text x="20" y="32" class="title">🏊 POOL 1337 — Finished PROGRESS</text>
 
-  <text x="20" y="85" class="big">57%</text>
-  <text x="20" y="110" class="sub">8/14 MODULES</text>
-
-  <text x="220" y="85" class="stat">📁 59 .c files</text>
-  <text x="220" y="105" class="stat">📝 ~1862 lines</text>
+  <text x="20" y="85" class="big">8-36%</text>
+  <text x="20" y="110" class="sub">8/13 MODULES</text>
 
   <rect class="bar-bg" x="20" y="120" width="280" height="10" />
   <rect class="bar-fill" x="20" y="120" width="0" height="10">
     <animate attributeName="width" from="0" to="159" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" />
   </rect>
 
-  <circle cx="390" cy="28" r="4" fill="#3fb950">
+  <circle cx="360" cy="28" r="4" fill="#3fb950">
     <animate attributeName="r" values="4;6;4" dur="2s" repeatCount="indefinite" />
     <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite" />
   </circle>
-  <text x="400" y="32" font-size="10" fill="#3fb950" font-family="sans-serif" font-weight="700">LIVE</text>
+  <text x="370" y="32" font-size="10" fill="#3fb950" font-family="sans-serif" font-weight="700">2026</text>
 </svg>

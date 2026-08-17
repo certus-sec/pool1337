@@ -3,12 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strstr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sabir <sabir@student.42.fr>                +#+  +:+       +#+        */
+/*   By: sboukhel <sboukhel@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/05/17 10:45:45 by sabir             #+#    #+#             */
-/*   Updated: 2026/05/17 12:56:33 by sabir            ###   ########.fr       */
+/*   Created: 2026/05/17 10:45:45 by sboukhel          #+#    #+#             */
+/*   Updated: 2026/08/17 21:26:02 by sboukhel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include <stdlib.h>
 
 char	*ft_strstr(char *str, char *to_find)
 {

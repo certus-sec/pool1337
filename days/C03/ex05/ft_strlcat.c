@@ -3,13 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strlcat.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sabir <sabir@student.42.fr>                +#+  +:+       +#+        */
+/*   By: sboukhel <sboukhel@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/05/17 12:58:23 by sabir             #+#    #+#             */
-/*   Updated: 2026/05/17 13:29:07 by sabir            ###   ########.fr       */
+/*   Created: 2026/05/17 12:58:23 by sboukhel          #+#    #+#             */
+/*   Updated: 2026/08/17 21:28:11 by sboukhel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
-unsigned int	ft_strlcat(char *dest, char *src, unsigned int size)
+
+int	strlcat(char *dest, char *src, unsigned int size)
 {
 	unsigned int	i;
 	unsigned int	j;

@@ -22,7 +22,7 @@
   <rect fill="url(#grad-C00)" x="1" y="1" width="338" height="62" rx="11" opacity="0.5" />
 
   <text x="14" y="22" class="title">✅ C00</text>
-  <text x="14" y="40" class="meta">9/9 ex · 315 lines</text>
+  <text x="14" y="40" class="meta">8/9 ex</text>
 
   <rect class="badge-bg" x="260" y="10" width="70" height="22" rx="11" />
   <text x="295" y="25" text-anchor="middle" class="badge-txt">DONE</text>
@@ -31,5 +31,5 @@
   <rect class="bar-fill" x="14" y="50" width="0" height="5">
     <animate attributeName="width" from="0" to="120" dur="0.8s" fill="freeze" />
   </rect>
-  <text x="140" y="55" class="meta">100%</text>
+  <text x="140" y="55" class="meta">85%</text>
 </svg>

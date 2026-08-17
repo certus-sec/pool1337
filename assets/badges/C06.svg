@@ -22,7 +22,7 @@
   <rect fill="url(#grad-C06)" x="1" y="1" width="338" height="62" rx="11" opacity="0.5" />
 
   <text x="14" y="22" class="title">✅ C06</text>
-  <text x="14" y="40" class="meta">4/4 ex · 169 lines</text>
+  <text x="14" y="40" class="meta">4/4 ex</text>
 
   <rect class="badge-bg" x="260" y="10" width="70" height="22" rx="11" />
   <text x="295" y="25" text-anchor="middle" class="badge-txt">DONE</text>

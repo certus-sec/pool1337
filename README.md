@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:111111&height=200&section=header&text=pool1337&fontSize=90&fontFamily=JetBrains%20Mono&fontColor=ffffff&fontAlignY=45&desc=C%20Piscine%20%E2%80%94%201337%20%C3%97%2042%20Network&descSize=16&descAlignY=65&descColor=3a3a3a&stroke=1D9E75&strokeWidth=2&animation=fadeIn" width="100%"/>
 
-[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&multiline=false&width=580&lines=learning+C+from+scratch+%E2%86%92+no+teachers%2C+no+mercy;62%2B+exercises+%C2%B7+8+modules+%C2%B7+zero+leaks;norminette+says+%E2%9C%93+%E2%80%94+that%27s+all+that+matters;1337+%C3%97+42+%E2%80%94+benguerir%2C+morocco)](https://github.com/certus-sec/pool1337)
+[![typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&multiline=false&width=580&lines=learning+C+from+scratch+%E2%86%92+no+teachers%2C+no+mercy;62%2B+exercises+%C2%B7+8+modules+%C2%B7+zero+leaks;norminette+says+%E2%9C%93+%E2%80%94+that%27s+all+that+matters;1337+%C3%97+42+%E2%80%94+khouribga%2C+morocco)](https://github.com/sboukhel/pool1337)
 
 <p align="center">
   <img src="https://res.cloudinary.com/dpwnvpf63/image/upload/v1749674109/UM6P_1337_hqcnme.jpg" alt="1337 Logo" width="160" style="border-radius: 15%;" />
@@ -23,11 +23,11 @@
 
 # live repo stats
 
-<img src="https://img.shields.io/github/stars/certus-sec/pool1337?style=for-the-badge&label=%E2%98%85%20stars&labelColor=0d0d0d&color=111111&logoColor=ffffff"/>
-<img src="https://img.shields.io/github/forks/certus-sec/pool1337?style=for-the-badge&label=%E2%80%A6%20forks&labelColor=0d0d0d&color=111111"/>
-<img src="https://img.shields.io/github/last-commit/certus-sec/pool1337?style=for-the-badge&label=%E2%86%91%20pushed&labelColor=0d0d0d&color=111111&logo=git&logoColor=1D9E75"/>
-<img src="https://img.shields.io/github/repo-size/certus-sec/pool1337?style=for-the-badge&label=%E2%96%A6%20size&labelColor=0d0d0d&color=111111"/>
-<img src="https://img.shields.io/github/commit-activity/m/certus-sec/pool1337?style=for-the-badge&label=%E2%9F%B3%20commits%2Fmo&labelColor=0d0d0d&color=111111"/>
+<img src="https://img.shields.io/github/stars/sboukhel/pool1337?style=for-the-badge&label=%E2%98%85%20stars&labelColor=0d0d0d&color=111111&logoColor=ffffff"/>
+<img src="https://img.shields.io/github/forks/sboukhel/pool1337?style=for-the-badge&label=%E2%80%A6%20forks&labelColor=0d0d0d&color=111111"/>
+<img src="https://img.shields.io/github/last-commit/sboukhel/pool1337?style=for-the-badge&label=%E2%86%91%20pushed&labelColor=0d0d0d&color=111111&logo=git&logoColor=1D9E75"/>
+<img src="https://img.shields.io/github/repo-size/sboukhel/pool1337?style=for-the-badge&label=%E2%96%A6%20size&labelColor=0d0d0d&color=111111"/>
+<img src="https://img.shields.io/github/commit-activity/m/sboukhel/pool1337?style=for-the-badge&label=%E2%9F%B3%20commits%2Fmo&labelColor=0d0d0d&color=111111"/>
 
 </div>
 
@@ -68,10 +68,6 @@
 | `C07` | `malloc` · `free` · heap memory | 6 | <img src="assets/badges/C07.svg" height="24" /> |
 | `C08` | structs · headers · guards | — | <img src="assets/badges/C08.svg" height="24" /> |
 | `C09` | static libs · `ar` · Makefile | — | <img src="assets/badges/C09.svg" height="24" /> |
-| `C10` | file I/O | — | <img src="assets/badges/C10.svg" height="24" /> |
-| `C11` | function pointers | — | <img src="assets/badges/C11.svg" height="24" /> |
-| `C12` | linked lists | — | <img src="assets/badges/C12.svg" height="24" /> |
-| `C13` | binary trees | — | <img src="assets/badges/C13.svg" height="24" /> |
    </td>
 </table>
 
@@ -81,12 +77,11 @@
 |:-:|---|:-:|
 | 🐚 | **Shell00** | <img src="assets/badges/Shell00.svg" height="24" /> |
 | 🐚 | **Shell01** | <img src="assets/badges/Shell01.svg" height="24" /> |
-| 📋 | **Exam level00** | <img src="assets/badges/level_00.svg" height="24" /> |
-| 📋 | **Exam level01** | <img src="assets/badges/level_01.svg" height="24" /> |
-| 📋 | **Exam level02** | <img src="assets/badges/level_02.svg" height="24" /> |
-| 📋 | **Exam level03** | <img src="assets/badges/level_03.svg" height="24" /> |
+| 📋 | **Exam 00** | <img src="assets/badges/level_00.svg" height="24" /> |
+| 📋 | **Exam 01** | <img src="assets/badges/level_01.svg" height="24" /> |
+| 📋 | **Exam 02** | <img src="assets/badges/level_02.svg" height="24" /> |
+| 📋 | **Exam Final** | <img src="assets/badges/level_03.svg" height="24" /> |
 | 👥 | **Rush00** | <img src="assets/badges/Rush00.svg" height="24" /> |
-| 👥 | **Rush01** | <img src="assets/badges/Rush01.svg" height="24" /> |
 
 ----
 
@@ -132,9 +127,11 @@ pool1337/
 │   ├── C04/   ex00 → ex05   base conversion · atoi
 │   ├── C05/   ex00 → ex08   recursion · math
 │   ├── C06/   ex00 → ex03   argc / argv
-│   └── C07/   ex00 → ex05   malloc · free
+│	├── C07/   ex00 → ex05	 malloc · free
+│   └── C08/   ex00 → ex04   header files
+│
 ├── sources/   notes.md + video.md per module
-├── EXAM/      level00 → level03
+├── EXAM/      level00 → level01
 └── tools/     42header · moulinette · norminette
 ```
 
@@ -143,7 +140,7 @@ pool1337/
 ## quick start
 
 ```bash
-git clone https://github.com/certus-sec/pool1337.git
+git clone https://github.com/sboukhel/pool1337.git
 cd pool1337/days/C00/ex00
 cc -Wall -Wextra -Werror ft_putchar.c && ./a.out
 norminette ft_putchar.c
@@ -152,7 +149,7 @@ norminette ft_putchar.c
 ---
 
 <p align="center">
-  <a href="https://github.com/certus-sec">
+  <a href="https://github.com/sboukhel">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=45&lines=✦+Sabir+✦+1337+%2F+42+Network+✦+Morocco+🇲🇦+✦">
   </a>
 </p>

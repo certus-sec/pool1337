@@ -3,14 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_reverse_alphabet.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: sabir <sabir@student.42.fr>                +#+  +:+       +#+        */
+/*   By: sboukhel <sboukhel@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/05/15 13:04:42 by sabir             #+#    #+#             */
-/*   Updated: 2026/05/15 13:06:11 by sabir            ###   ########.fr       */
+/*   Created: 2026/05/14 12:16:24 by sboukhel          #+#    #+#             */
+/*   Updated: 2026/08/17 19:14:15 by sboukhel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
 
 void	ft_putchar(char c)
 {

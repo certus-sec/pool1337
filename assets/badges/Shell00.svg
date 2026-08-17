@@ -6,15 +6,15 @@
     </filter>
   </defs>
   <style>
-    .bg{fill:#161b22;stroke:#da3633;stroke-width:1;}
+    .bg{fill:#161b22;stroke:#238636;stroke-width:1;}
     .title{fill:#c9d1d9;font-family:-apple-system,sans-serif;font-size:12px;font-weight:600;}
     .meta{fill:#8b949e;font-family:monospace;font-size:9px;}
-    .badge-bg{fill:#f85149;opacity:0.15;rx:8;}
-    .badge-txt{fill:#f85149;font-family:sans-serif;font-size:8px;font-weight:700;}
+    .badge-bg{fill:#3fb950;opacity:0.15;rx:8;}
+    .badge-txt{fill:#3fb950;font-family:sans-serif;font-size:8px;font-weight:700;}
   </style>
   <rect class="bg" x="0" y="0" width="280" height="44" rx="10" />
   <text x="12" y="18" class="title">🐚 Shell00</text>
   <text x="12" y="34" class="meta">fs navigation · git · permissions</text>
   <rect class="badge-bg" x="210" y="10" width="60" height="20" rx="10" />
-  <text x="240" y="24" text-anchor="middle" class="badge-txt">TODO</text>
+  <text x="240" y="24" text-anchor="middle" class="badge-txt">100/100</text>
 </svg>
